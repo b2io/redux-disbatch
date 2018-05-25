@@ -1,0 +1,25 @@
+{
+  "name": "redux-disbatch",
+  "version": "1.0.0",
+  "description": "Batch concurrent dispatches to optimize re-renders",
+  "main": "lib/redux-disbatch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b2io/redux-disbatch.git"
+  },
+  "author": "Base Two Interactive, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b2io/redux-disbatch/issues"
+  },
+  "homepage": "https://github.com/b2io/redux-disbatch#readme",
+  "dependencies": {
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "jest": "^23.0.0"
+  }
+}
